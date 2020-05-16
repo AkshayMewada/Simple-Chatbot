@@ -6,7 +6,7 @@ The contents are as follow.
     - [Simple Chatbot With RandomForest](https://medium.com/@akshay.mewada7/simple-chatbot-using-randoforest-3106ea2b523e)
     - Chatbot Webaap 1
 2. Adding Entity to Simple chatbot
-    - [Simple Named Entity Classification]()
+    - [Simple Named Entity Classification](https://medium.com/@akshay.mewada7/simple-named-entity-recognition-using-naive-bayes-classifier-2421f92c5b1e)
     - Chatbot Webapp 2
 ---
 #### Simple Chatbot with Intent
