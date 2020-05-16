@@ -1,0 +1,46 @@
+greet:
+  - "Hello"
+  - "Hi"
+  - "Hey"
+
+greetask:
+  - "Hi {name}, How are you?"
+  - "Hello {name}, How are you?"
+  - "Hey {name}, How are you?"
+
+askbot:
+  - "I am good. What about you?"
+  - "All is well.  What about you?"
+
+botaskgoood:
+  - "Thats sounds great"
+  - "Thats good"
+
+botaskbad:
+  - "Sorry to hear that"
+  - "Oh, Take care"
+  - "Relax and stay calm it will help you"
+
+bye:  
+  - "Bye"
+  - "Good bye"
+  - "bye bye"
+
+domath:
+  add: 
+    - The addition of {num1} and {num2} is {result} 
+    - Addition of {num1} and {num2} is {result} 
+  sub: 
+    - The subtration of {num1} from {num2} is {result} 
+    - Subtration of {num1} from {num2} is {result} 
+  mul: 
+    - The multiplication of {num1} and {num2} is {result} 
+    - Multiplication of {num1} and {num2} is {result} 
+  div: 
+    - The division of {num1} by {num2} is {result} 
+    - Division of {num1} by {num2} is {result} 
+
+fallback: "Sorry, I am not getting you"
+failed: "Something went wrong"
+
+    

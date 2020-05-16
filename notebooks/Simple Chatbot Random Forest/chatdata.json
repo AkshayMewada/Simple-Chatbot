@@ -1,0 +1,36 @@
+{
+    "greet": [
+        "hi",
+        "hello",
+        "hey",
+        "hola"
+    ],
+    "goodbye": [
+        "bye",
+        "goodbye",
+        "good bye"
+    ],
+    "sad": [
+        "sad",
+        "not good",
+        "i am sad",
+        "not happy"
+    ],
+    "hppay": [
+        "i am happy",
+        "i am good",
+        "great",
+        "good"
+    ],
+    "askbot": [
+        "how are you?",
+        "whats up",
+        "wassup"
+    ],
+    "botname": [
+        "what is your name",
+        "Hey who are you",
+        "tell me your name",
+        "may i know your name"
+    ]
+}

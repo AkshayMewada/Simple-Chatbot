@@ -1,0 +1,187 @@
+- text: hi
+- text: hello
+- text: hey
+- text: hi i am john
+  entity:
+  - pos: 3
+    name: john
+- text: hi i am ranvijay
+  entity:
+  - pos: 3
+    name: ranvijay
+- text: hello i am steve
+  entity:
+  - pos: 3
+    name: steve
+- text: hello i am suraj
+  entity:
+  - pos: 3
+    name: suraj
+- text: hello i am somesh
+  entity:
+  - pos: 3
+    name: somesh
+- text: akshay here
+  entity:
+  - pos: 0
+    name: akshay
+- text: hi myself kate
+  entity:
+  - pos: 2
+    name: kate
+- text: hi myself suryvanshi
+  entity:
+  - pos: 2
+    name: suryvanshi
+- text: hey roger is here
+  entity:
+  - pos: 1
+    name: roger
+- text: ravishankar here
+  entity:
+  - pos: 0
+    name: ravishankar
+- text: hi i am niranjan
+  entity:
+  - pos: 2
+    name: niranjan
+- text: hey ramesh is here
+  entity:
+  - pos: 1
+    name: ramesh
+
+- text: hi myself deepak
+  entity:
+  - pos: 2
+    name: deepak
+- text: hi myself sumit
+  entity:
+  - pos: 2
+    name: sumit
+- text: hey govind is here
+  entity:
+  - pos: 1
+    name: govind
+- text: vishwas here
+  entity:
+  - pos: 0
+    name: vishwas
+- text: hi i am nimantran
+  entity:
+  - pos: 2
+    name: nimantran
+- text: hey rajeshwari is here
+  entity:
+  - pos: 1  
+    name: rajeshwari
+- text: i am good
+- text: good
+- text: feeling great 
+- text: i am not feeling well
+- text: i am not good at all
+- text: feeling bad
+- text: sad
+- text: i am sad
+- text: how are you
+- text: wassup
+- text: whats up
+- text: hey wassup
+- text: add 12 and 23
+  entity:
+  - pos: 0
+    operator: add
+  - pos: 1
+    number: 12
+  - pos: 3
+    number: 23
+- text: div 6 by 13
+  entity:
+  - pos: 0
+    operator: div
+  - pos: 1
+    number: 6
+  - pos: 3
+    number: 13
+- text: mul 99 by 3
+  entity:
+  - pos: 0
+    operator: mul
+  - pos: 1
+    number: 99
+  - pos: 3
+    number: 3
+- text: sub 7 from 2
+  entity:
+  - pos: 0
+    operator: sub
+  - pos: 1
+    number: 7
+  - pos: 3
+    number: 2
+- text: add 33 and 3
+  entity:
+  - pos: 0
+    operator: add
+  - pos: 1
+    number: 33
+  - pos: 3
+    number: 3
+- text: div 56 by 12
+  entity:
+  - pos: 0
+    operator: div
+  - pos: 1
+    number: 56
+  - pos: 3
+    number: 12
+- text: mul 50 by 10
+  entity:
+  - pos: 0
+    operator: mul
+  - pos: 1
+    number: 50
+  - pos: 3
+    number: 10
+- text: sub 87 from 21
+  entity:
+  - pos: 0
+    operator: sub
+  - pos: 1
+    number: 87
+  - pos: 3
+    number: 21
+- text: add 3 and 355
+  entity:
+  - pos: 0
+    operator: add
+  - pos: 1
+    number: 3
+  - pos: 3
+    number: 355
+- text: div 10 by 10 
+  entity:
+  - pos: 0
+    operator: div
+  - pos: 1
+    number: 10
+  - pos: 3
+    number: 10
+- text: mul 0 by 0
+  entity:
+  - pos: 0
+    operator: mul
+  - pos: 1
+    number: 0
+  - pos: 3
+    number: 0
+- text: sub 1000 from 3000
+  entity:
+  - pos: 0
+    operator: sub
+  - pos: 1
+    number: 1000
+  - pos: 3
+    number: 3000
+- text: bye
+- text: good bye
+- text: bye bye
