@@ -18,7 +18,7 @@ Chatbot webapp 1 is the webapi example of Simple chatbot with random forest. The
 #### Adding Entity to Simple Chatbot
 Following the Intent based chatbot we need to add extra feature like information extraction form user text.
 
-To achieve simple named entity classification the Simple Named Entity Recognition using Naive Bayes will help to understand. Also you can find full code in notebooks.   
+To achieve simple named entity classification the [Simple Named Entity Recognition using Naive Bayes](https://medium.com/@akshay.mewada7/simple-named-entity-recognition-using-naive-bayes-classifier-2421f92c5b1e) will help to understand. Also you can find full code in notebooks.   
 
 Chatbot webapp 2 is the webapi example of Simple chatbot with intent and entity clssifier. The code found in chatbotwebpp_2.
 
