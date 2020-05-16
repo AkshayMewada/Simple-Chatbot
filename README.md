@@ -3,14 +3,14 @@
 The contents are as follow.
 
 1. Simple Chatbot with Intent
-    - [Simple Chatbot With RandomForest](<https://duckduckgo.com/?q=test this!&t=ffab>)
+    - [Simple Chatbot With RandomForest](<https://medium.com/@akshay.mewada7/simple-chatbot-using-randoforest-3106ea2b523e)
     - Chatbot Webaap 1
 2. Adding Entity to Simple chatbot
     - [Simple Named Entity Classification]()
     - Chatbot Webapp 2
 ---
 #### Simple Chatbot with Intent
-The [article](<https://duckduckgo.com/?q=test this!&t=ffab>) shows basic understaing of what is chatbot and how to create simple intent based chatbot. Also you can find full code in notebooks.  
+The [article](<https://medium.com/@akshay.mewada7/simple-chatbot-using-randoforest-3106ea2b523e>) shows basic understaing of what is chatbot and how to create simple intent based chatbot. Also you can find full code in notebooks.  
 
 Chatbot webapp 1 is the webapi example of Simple chatbot with random forest. The code found in chatbotwebpp_1.
 
